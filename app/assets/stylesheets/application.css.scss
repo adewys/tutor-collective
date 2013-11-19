@@ -15,7 +15,10 @@
 *= require_tree
 */
 @import "bootstrap";
+.navbar {
+ background-color:rgb(240,228,126);
 
+}
 @media (min-width: 767px) {
   body { padding-top: 60px; }
 }
